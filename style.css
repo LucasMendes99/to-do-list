@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: white;
     max-width: 500px;
     margin: 0 auto;
     font-family: Arial, Helvetica, sans-serif;  
@@ -12,8 +12,8 @@ h1{
 input{
     height: 40px;
     border: 2px solid #84009b;
-    background-color: #333;
-    color: #eee;
+    background-color: white;
+    color: black;
     outline: none;
     width: 80%;
 }
@@ -30,7 +30,7 @@ button:hover{
     background-color: #333;
 }
 button:active{
-    background-color: #a900c7;
+    background-color: #84009b;
 }
 
 ul{
@@ -38,7 +38,7 @@ ul{
     padding: 0;
 }
 li{
-    background-color: #4a148c;
+    background-color: #84009b;
     padding:10px;
     margin: 10px auto;
     border-radius: 5px;
